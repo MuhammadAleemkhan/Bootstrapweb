@@ -1,0 +1,174 @@
+
+/* Navigation Bar Section */
+
+.navhover{
+    color: #023a72;
+}
+.navhover:hover{
+    color: black;
+}
+.navbar-brand{
+    font-size: 30px;
+    padding-top: 20px;
+}
+.nav-link{
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Title Section */
+
+#title {
+    background-color: #ADD8E6;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+}
+
+/* Bootstrap Row Section */
+
+.upper{
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+    padding-top: 10px;
+    text-align: center;
+
+}
+.headertext{
+    line-height: 2.0;
+    font-family: 'Montserrat', sans-serif;
+    width: 350px;
+}
+
+.container-fluid{
+    padding: 3% 15% 0% 15%;
+    
+   
+}
+.lower{
+    margin-left: 200px;
+}
+
+.image{
+    block-size: 615px;
+
+}
+
+h3{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+i {
+      text-align: center;
+}
+.hover1{
+    color: rgb(246, 153, 235);
+    margin-bottom: 15px;
+    margin-left: 35px;
+}
+.hover1:hover {
+    color: #8a4a76;
+    
+}
+
+.bbutton{
+   position: relative;
+   right: 110px;
+   margin-left: 20px;
+} 
+
+/* .wbutton{
+    margin-left: 0px;
+} */
+.para1{
+    color: #8f8f8f;
+}
+.aa{
+    font-size: 21px;
+}
+
+/* Testimonials Section */
+
+#testimonials{
+    padding: 5% 10%;
+    text-align: center;
+    color: aliceblue;
+    background-color: #a5cbfa;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 5%;
+}
+h2{
+    font-family: "Monserrat: Bold";
+    line-height: 2.0;
+    align-content: center;
+    
+}
+#press{
+    background-color: #a5cbfa;
+    padding: 2% 5% 3% 28%;
+
+}
+.press-image{
+    width: 13%;
+    margin: 5px 20px 5px 20px;
+    
+
+}
+.ms-auto{
+   margin-left: 500px;
+
+}
+li{
+   padding:0px 20px 0px 20px;
+}
+
+/* Pricing Section */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+   
+}
+.pricing1{
+    padding-top: 40px;
+}
+.color{
+    background-color: #e3ecfc;
+}
+/* Footer Section */
+
+#cta{
+    background-color: #a1cdf9;
+    height: 280px;
+    text-align: center;
+    padding: 60px 5px 5px 20px;
+}
+.footerbtn{
+margin-top: 40px;
+margin-left: 30px;
+}
+.footertext{
+font-size: 35px;
+font-family: "Montserrat: black";
+line-height: 1.5;
+}
+#footer{
+    height: 220px;
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 0px;
+}
+.footerp{
+    margin-top: 30px;
+    color: #c2c2c2;
+    margin-left: 45px;
+}
+.footicon{
+    margin-left: 35px;
+}
